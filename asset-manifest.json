@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Usman-s-Portfolio/static/css/main.651a25dd.css",
+    "main.js": "/Usman-s-Portfolio/static/js/main.296e3325.js",
+    "index.html": "/Usman-s-Portfolio/index.html",
+    "main.651a25dd.css.map": "/Usman-s-Portfolio/static/css/main.651a25dd.css.map",
+    "main.296e3325.js.map": "/Usman-s-Portfolio/static/js/main.296e3325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651a25dd.css",
+    "static/js/main.296e3325.js"
+  ]
+}
